@@ -7,3 +7,6 @@ interface/node_modules
 
 ### dist ###
 compilation-text/dist
+
+### js ###
+*.js
