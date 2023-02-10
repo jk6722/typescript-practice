@@ -1,0 +1,9 @@
+### node_modules ###
+basic-types/node_modules
+class/node_modules
+compilation-text/node_modules
+generic/node_modules
+interface/node_modules
+
+### dist ###
+compilation-text/dist
